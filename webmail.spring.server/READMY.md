@@ -1,0 +1,1 @@
+По пути `src/main/resources/properties.example/` хранятся примеры с настройками
